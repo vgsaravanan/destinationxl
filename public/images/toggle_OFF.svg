@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 18" style="enable-background:new 0 0 36 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#888888;}
+	.st1{fill:#FFFFFF;}
+</style>
+<title>Size profile/Toggle OFF</title>
+<desc>Created with Sketch.</desc>
+<g id="Symbols">
+	<g id="Size-profile_x2F_Toggle-OFF">
+		<g>
+			<path id="Background" class="st0" d="M9,0h18c5,0,9,4,9,9l0,0c0,5-4,9-9,9H9c-5,0-9-4-9-9l0,0C0,4,4,0,9,0z"/>
+			<circle id="Toggle" class="st1" cx="9" cy="9" r="7.5"/>
+			<path id="OFF" class="st1" d="M21.3,11.3c-0.7,0-1.2-0.2-1.6-0.8c-0.4-0.5-0.5-1.1-0.5-1.7c0-1.3,0.6-2.5,2.1-2.5
+				c0.6,0,1.1,0.2,1.5,0.7c0.3,0.5,0.5,1.1,0.5,1.7c0,0.5-0.1,1.2-0.5,1.7C22.5,11,21.9,11.3,21.3,11.3z M21.3,7.2
+				c-0.4,0-0.6,0.2-0.7,0.5c-0.1,0.3-0.2,0.7-0.2,1c0,0.6,0.1,1.6,0.9,1.6c0.4,0,0.6-0.2,0.7-0.5c0.1-0.3,0.1-0.7,0.1-1
+				c0-0.4,0-0.8-0.2-1.1C21.8,7.4,21.6,7.2,21.3,7.2z M27.5,7.3V6.4H24v4.8h1.1V9.3H27V8.4h-1.8V7.3H27.5z M31.2,7.3V6.4h-3.4v4.8
+				h1.1V9.3h1.8V8.4h-1.8V7.3H31.2z"/>
+		</g>
+	</g>
+</g>
+</svg>

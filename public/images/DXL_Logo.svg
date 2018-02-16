@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100.5 37.7" style="enable-background:new 0 0 100.5 37.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#020203;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill:#FFFFFF;}
+	.st3{mask:url(#mask-2);fill:#020203;}
+</style>
+<title>DXL Logo</title>
+<desc>Created with Sketch.</desc>
+<g id="Symbols">
+	<g id="DXL-Logo">
+		<g>
+			<polygon id="Fill-1" class="st0" points="74.1,0 74.1,37.7 100.5,37.7 100.5,31.7 80.7,31.7 80.7,0 			"/>
+			<polygon id="Fill-2" class="st0" points="52,25.2 60.7,37.7 68.5,37.7 55.9,19.9 			"/>
+			<polygon id="Fill-3" class="st0" points="68,0 60.4,0 52.1,11.9 55.8,17.1 			"/>
+			<polygon id="Fill-4" class="st0" points="33.8,0 47,18.5 33.2,37.7 40.8,37.7 54.6,18.6 41.6,0 			"/>
+			<g id="Group-13" transform="translate(0.000000, 0.005917)">
+				<g id="Group-7" transform="translate(0.000000, 0.295858)">
+					<g id="Clip-6">
+					</g>
+					<defs>
+						<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="-0.2" width="34" height="37.6">
+							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+						</filter>
+					</defs>
+					<mask maskUnits="userSpaceOnUse" x="0" y="-0.2" width="34" height="37.6" id="mask-2">
+						<g class="st1">
+							<polygon id="path-1" class="st2" points="0,-0.2 0,37.4 34,37.4 34,-0.2 							"/>
+						</g>
+					</mask>
+					<path id="Fill-5" class="st3" d="M27.1,18.7c0,7.4-5.2,12.7-13.1,12.7H6.6V5.8H14c7.9,0,13.1,5.4,13.1,12.8V18.7z M34,18.5
+						C34,7.9,25.9-0.2,14-0.2H0v37.6h14c11.8,0,20-8.2,20-18.8V18.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
